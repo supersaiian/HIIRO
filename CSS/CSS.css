@@ -1,0 +1,28 @@
+body{
+	background-color: lightblue;
+}
+h1{
+font-size: 30px;
+color: crimson;
+}
+
+h2{
+color: steelblue;
+font-size: 20px;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color: goldenrod;
+}
+
+h1 span{
+color: darkseagreen;
+}
